@@ -1,0 +1,22 @@
+
+Do men or women use CityBike most frequently? 
+
+- Men use citybike more than women do, as shown by the total number of trips and total distance traveled by both genders. 
+- A strong marketing push with this demographic would provide an opportunity to increase expand and grow.
+
+Which Bikes Need Service?
+
+- I planned to use average distance as a measure for which bikes needed service; however, I realized that the bikes with high average generally had a few long rides. Therefore, I changed my metrics to sum of distance traveled and number of trips. 
+- I predict that a high number of trips will have an impact on the brakes, gears, and any adjustable parts of the bike. 
+- I predict that bikes with the highest distance traveled will need their tires patched, replaced, or filled more frequently than other bikes. 
+
+Which Stations are Most Popular?
+
+- I used a few different maps and metrics to display these calculations. 
+- I calculated the the average distance traveled two and from every start and end station (respectively) of every station. 
+- From there, I isolated the top 20 stations by sum of distance traveled, split up by start and end station. 
+    - The highest distance traveled start/stop stations were similar. 
+    - many are clustered around popular subway stations - for example, there are three popular bike stations near the Myrtle-Wycloff Ave subway station. The most popular bike station, the 12th Ave & 40th St. bike station, shares its name with a subway station. 
+    - CityBike employees clearly love their own service - the CityBike HQ station was in the top 20 for start and end stations!
+
+
